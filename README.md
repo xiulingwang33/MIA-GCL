@@ -3,7 +3,7 @@ This is the implementation for our paper "White-box Membership Inference Attacks
 
 ## Datasets
 
-The datasets of Cora, Citeseer, Amazon-computer, Amazon-photo can be download with the package of pytroch Geometric, the datasets of Facebook, ENZYMES are provided in the file "data", the datasets of Cora, Citeseer with different density are provided in the file "data/density".
+The datasets of Cora, Citeseer, Amazon-computer, Amazon-photo can be download with the package of pytroch Geometric, the datasets of ENZYMES is provided in the file "data", the dataset of Facebook can be download here: https://snap.stanford.edu/data/ego-Facebook.html, the datasets of Cora, Citeseer with different density are provided in the file "data/density".
 
 ## GCL models (target model)
 
