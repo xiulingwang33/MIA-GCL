@@ -84,7 +84,7 @@ def get_edge_embeddings(edge_list, emb_matrixs,idx_epoches_all ):
     return embs
 
 results=[]
-dt='3980'
+dt='Cora'
 
 # rats=[0.2,0.4,0.6,0.8]
 rats=[0.2]
