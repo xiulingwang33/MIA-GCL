@@ -43,7 +43,7 @@ We tested the implementations with the following reqirements:
     
 ## Attacks against MAGRL
 
-    python 
+    python MVGRL-mia-white.py
     
 ## Attacks against GCA
 
