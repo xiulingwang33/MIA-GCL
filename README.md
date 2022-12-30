@@ -39,7 +39,7 @@ We tested the implementations with the following reqirements:
 
 ## Attacks against GRACE
 
-    python 
+    python GRACE-mia-white.py
     
 ## Attacks against MAGRL
 
