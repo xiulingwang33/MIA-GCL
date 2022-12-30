@@ -47,7 +47,7 @@ We tested the implementations with the following reqirements:
     
 ## Attacks against GCA
 
-    python 
+    python python train-mia-white.py --device cuda:0 --dataset Cora --param local:cora.json --drop_scheme degree
     
 ## Attacks against CCA-SSG
 
