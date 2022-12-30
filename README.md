@@ -61,11 +61,19 @@ We tested the implementations with the following reqirements:
 
 For Noisy embedding
 
-    python 
+    python GRACE-mia-white-dpsgd-defense.py
+    
+    python MVGRL-mia-white-dpsgd-defense.py
+    
+    python main-cora-mia-white-dpsgd-defense.py
 
 For DP-SGD
 
-    python 
+    python GRACE-mia-white-lap-defense.py
+    
+    python MVGRL-mia-white-lap-defense.py
+    
+    python main-cora-mia-white-lap-defense.py
 
 
 
