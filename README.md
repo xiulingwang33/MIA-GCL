@@ -19,7 +19,7 @@ The original implemenations of GCL models we used in the paper can be found here
 
 - MERIT: https://github.com/merit-gem/merit
 
-- Thanks for the authors providing the implementations. 
+Thanks for the authors providing the implementations. 
 
 ## Requirements
 
@@ -61,11 +61,11 @@ We tested the implementations with the following reqirements:
 
 For Noisy embedding
 
-    python defense-laplace.py
+    python 
 
 For DP-SGD
 
-    python defense-embedding-truncation.py
+    python 
 
 
 
