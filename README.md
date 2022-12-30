@@ -59,7 +59,7 @@ We tested the implementations with the following reqirements:
     
 ## Evaluate the defense mechanisms
 
-For Noisy embedding
+For DP-SGD
 
     python GRACE-mia-white-dpsgd-defense.py
     
@@ -67,7 +67,7 @@ For Noisy embedding
     
     python main-cora-mia-white-dpsgd-defense.py
 
-For DP-SGD
+For Noisy embedding
 
     python GRACE-mia-white-lap-defense.py
     
