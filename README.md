@@ -51,11 +51,11 @@ We tested the implementations with the following reqirements:
     
 ## Attacks against CCA-SSG
 
-    python 
+    python main-cora-mia-white.py
     
 ## Attacks against MERIT
 
-    python 
+    python train-cora-mia.py
     
 ## Evaluate the defense mechanisms
 
