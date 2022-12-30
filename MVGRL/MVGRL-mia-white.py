@@ -1,6 +1,6 @@
 import torch
 import os.path as osp
-import GCL.losses as L
+import GCL2.losses as L
 
 import sys
 import os
@@ -19,7 +19,7 @@ from torch import nn
 from tqdm import tqdm
 from torch.optim import Adam
 from GCL2.eval import get_split, LREvaluator
-from GCL.models import DualBranchContrast
+from GCL2.models import DualBranchContrast
 from torch_geometric.nn import GCNConv
 from torch_geometric.nn.inits import uniform
 from torch_geometric.datasets import Planetoid,Amazon
