@@ -25,7 +25,7 @@ Thanks for the authors providing the implementations.
 
 We tested the implementations with the following reqirements:
 
- - PyTorch 3.8
+ - Python 3.8
  
  - dgl-cuda11.3 0.9.0 
  
