@@ -1,9 +1,17 @@
 # MIA-GCL
-This is the implementation for our paper "White-box Membership Inference Attacks against Graph Contrastive Learning", which has been submitted to ACM CCS 2023.
+This is the implementation for our paper "GCL-LLeak: Link Membership Inference Attacks against Graph Contrastive Learning", which has been submitted to ACM CCS 2023.
 
 ## Datasets
 
-The datasets of Cora, Citeseer, Amazon-computer, Amazon-photo can be download with the package of pytroch Geometric, the datasets of ENZYMES is provided in the file "data", the dataset of Facebook can be download here: https://snap.stanford.edu/data/ego-Facebook.html, the datasets of Cora, Citeseer with different density are provided in the file "data/density".
+- The datasets of Cora, Citeseer, Amazon-computer, Amazon-photo can be download with the package of pytroch Geometric, 
+
+- The datasets of ENZYMES, COX2, Google+ are provided in the file "data"
+ 
+- The dataset of Facebook can be download here: https://snap.stanford.edu/data/ego-Facebook.html
+ 
+- The datasets of Cora, Citeseer with different density are provided in the file "data/density"
+ 
+- The datasets of Facebook - Ego and Google+ with different homophily are provided in the file "data/homophily"
 
 ## GCL models (target model)
 
