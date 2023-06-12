@@ -1,5 +1,5 @@
 # MIA-GCL
-This is the implementation for our paper "GCL-LLeak: Link Membership Inference Attacks against Graph Contrastive Learning", which has been submitted to ACM CCS 2023.
+This is the implementation for our paper "GCL-LLeak: Link Membership Inference Attacks against Graph Contrastive Learning", which has been submitted to PoPETs 2024.
 
 ## Datasets
 
